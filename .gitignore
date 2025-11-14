@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+dataset/
+model/
+*.h5
+*.pickle
+*.pkl
