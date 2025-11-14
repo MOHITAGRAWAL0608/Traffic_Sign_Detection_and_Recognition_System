@@ -31,7 +31,7 @@ TSDR/
 ├── train_model_from_pickle.py
 ├── tsdr_ui.py
 ├── tsdr_webcam.py
-└── README.md
+└── README.md  
 
 📥 Dataset
 
